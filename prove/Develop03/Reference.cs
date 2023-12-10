@@ -18,7 +18,7 @@ public class Reference
 
     public Reference(string book, int chapter, int startVerse, int endVerse)
     {
-         _book = book;
+        _book = book;
         _chapter = chapter;
         _verse = startVerse;
         _endVerse = endVerse;
