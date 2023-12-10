@@ -1,3 +1,5 @@
+using System;
+
 public static class Prompt {
     public static string[] _prompts;
     static Prompt() {
