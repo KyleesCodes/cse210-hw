@@ -1,0 +1,4 @@
+45
+SimpleGoal:Play soccer,Play soccer with friends,30,False
+EternalGoal:Reading the Scriptures,Reading the scriptures everyday,50
+ChecklistGoal:Go to the Gym,go to the Gym during the week,45,100,4,1
