@@ -41,5 +41,4 @@ public class WaitingTimer {
       Console.Write("\b \b"); 
     }
   }
-  
 }
