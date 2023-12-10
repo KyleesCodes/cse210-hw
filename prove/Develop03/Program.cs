@@ -34,7 +34,7 @@ class Program
 
             Console.WriteLine($"{reference} - {text}");
         
-            Console.WriteLine("Please enter to continue or quit to exit: ");
+            Console.WriteLine("Please enter to continue or type quit to exit: ");
             line = Console.ReadLine();
 
             if ((line == "quit") || (hidden == true))
